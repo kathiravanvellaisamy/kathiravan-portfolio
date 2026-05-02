@@ -437,6 +437,10 @@ footer ul li a{
     html{
         overflow-x: hidden;
     }
+
+    header{
+        width: 90%;
+    }
     
     header #menu-icon{
 
