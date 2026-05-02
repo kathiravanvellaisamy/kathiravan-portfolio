@@ -434,9 +434,9 @@ footer ul li a{
 
 
 @media(max-width:600px) {
-    html{
+    /* html{
         overflow-x: hidden;
-    }
+    } */
 
     header{
         width: 90%;
